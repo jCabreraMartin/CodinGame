@@ -1,0 +1,13 @@
+C:\Source\CodersStrikeBack\Death First Search - Episode 2\bin\Debug\netcoreapp3.1\Death First Search - Episode 2.exe
+C:\Source\CodersStrikeBack\Death First Search - Episode 2\bin\Debug\netcoreapp3.1\Death First Search - Episode 2.deps.json
+C:\Source\CodersStrikeBack\Death First Search - Episode 2\bin\Debug\netcoreapp3.1\Death First Search - Episode 2.runtimeconfig.json
+C:\Source\CodersStrikeBack\Death First Search - Episode 2\bin\Debug\netcoreapp3.1\Death First Search - Episode 2.runtimeconfig.dev.json
+C:\Source\CodersStrikeBack\Death First Search - Episode 2\bin\Debug\netcoreapp3.1\Death First Search - Episode 2.dll
+C:\Source\CodersStrikeBack\Death First Search - Episode 2\bin\Debug\netcoreapp3.1\Death First Search - Episode 2.pdb
+C:\Source\CodersStrikeBack\Death First Search - Episode 2\obj\Debug\netcoreapp3.1\Death First Search - Episode 2.csprojAssemblyReference.cache
+C:\Source\CodersStrikeBack\Death First Search - Episode 2\obj\Debug\netcoreapp3.1\Death First Search - Episode 2.AssemblyInfoInputs.cache
+C:\Source\CodersStrikeBack\Death First Search - Episode 2\obj\Debug\netcoreapp3.1\Death First Search - Episode 2.AssemblyInfo.cs
+C:\Source\CodersStrikeBack\Death First Search - Episode 2\obj\Debug\netcoreapp3.1\Death First Search - Episode 2.csproj.CoreCompileInputs.cache
+C:\Source\CodersStrikeBack\Death First Search - Episode 2\obj\Debug\netcoreapp3.1\Death First Search - Episode 2.dll
+C:\Source\CodersStrikeBack\Death First Search - Episode 2\obj\Debug\netcoreapp3.1\Death First Search - Episode 2.pdb
+C:\Source\CodersStrikeBack\Death First Search - Episode 2\obj\Debug\netcoreapp3.1\Death First Search - Episode 2.genruntimeconfig.cache
