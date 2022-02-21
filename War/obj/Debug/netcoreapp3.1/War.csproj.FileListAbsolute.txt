@@ -1,0 +1,13 @@
+C:\Source\CodersStrikeBack\War\bin\Debug\netcoreapp3.1\War.exe
+C:\Source\CodersStrikeBack\War\bin\Debug\netcoreapp3.1\War.deps.json
+C:\Source\CodersStrikeBack\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.json
+C:\Source\CodersStrikeBack\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.dev.json
+C:\Source\CodersStrikeBack\War\bin\Debug\netcoreapp3.1\War.dll
+C:\Source\CodersStrikeBack\War\bin\Debug\netcoreapp3.1\War.pdb
+C:\Source\CodersStrikeBack\War\obj\Debug\netcoreapp3.1\War.csprojAssemblyReference.cache
+C:\Source\CodersStrikeBack\War\obj\Debug\netcoreapp3.1\War.AssemblyInfoInputs.cache
+C:\Source\CodersStrikeBack\War\obj\Debug\netcoreapp3.1\War.AssemblyInfo.cs
+C:\Source\CodersStrikeBack\War\obj\Debug\netcoreapp3.1\War.csproj.CoreCompileInputs.cache
+C:\Source\CodersStrikeBack\War\obj\Debug\netcoreapp3.1\War.dll
+C:\Source\CodersStrikeBack\War\obj\Debug\netcoreapp3.1\War.pdb
+C:\Source\CodersStrikeBack\War\obj\Debug\netcoreapp3.1\War.genruntimeconfig.cache
