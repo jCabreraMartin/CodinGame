@@ -1,0 +1,13 @@
+C:\Source\CodersStrikeBack\Horse-racing Duals\bin\Debug\netcoreapp3.1\Horse-racing Duals.exe
+C:\Source\CodersStrikeBack\Horse-racing Duals\bin\Debug\netcoreapp3.1\Horse-racing Duals.deps.json
+C:\Source\CodersStrikeBack\Horse-racing Duals\bin\Debug\netcoreapp3.1\Horse-racing Duals.runtimeconfig.json
+C:\Source\CodersStrikeBack\Horse-racing Duals\bin\Debug\netcoreapp3.1\Horse-racing Duals.runtimeconfig.dev.json
+C:\Source\CodersStrikeBack\Horse-racing Duals\bin\Debug\netcoreapp3.1\Horse-racing Duals.dll
+C:\Source\CodersStrikeBack\Horse-racing Duals\bin\Debug\netcoreapp3.1\Horse-racing Duals.pdb
+C:\Source\CodersStrikeBack\Horse-racing Duals\obj\Debug\netcoreapp3.1\Horse-racing Duals.csprojAssemblyReference.cache
+C:\Source\CodersStrikeBack\Horse-racing Duals\obj\Debug\netcoreapp3.1\Horse-racing Duals.AssemblyInfoInputs.cache
+C:\Source\CodersStrikeBack\Horse-racing Duals\obj\Debug\netcoreapp3.1\Horse-racing Duals.AssemblyInfo.cs
+C:\Source\CodersStrikeBack\Horse-racing Duals\obj\Debug\netcoreapp3.1\Horse-racing Duals.csproj.CoreCompileInputs.cache
+C:\Source\CodersStrikeBack\Horse-racing Duals\obj\Debug\netcoreapp3.1\Horse-racing Duals.dll
+C:\Source\CodersStrikeBack\Horse-racing Duals\obj\Debug\netcoreapp3.1\Horse-racing Duals.pdb
+C:\Source\CodersStrikeBack\Horse-racing Duals\obj\Debug\netcoreapp3.1\Horse-racing Duals.genruntimeconfig.cache
