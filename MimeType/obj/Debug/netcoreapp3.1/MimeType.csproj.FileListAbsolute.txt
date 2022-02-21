@@ -1,0 +1,13 @@
+C:\Source\CodersStrikeBack\MimeType\bin\Debug\netcoreapp3.1\MimeType.exe
+C:\Source\CodersStrikeBack\MimeType\bin\Debug\netcoreapp3.1\MimeType.deps.json
+C:\Source\CodersStrikeBack\MimeType\bin\Debug\netcoreapp3.1\MimeType.runtimeconfig.json
+C:\Source\CodersStrikeBack\MimeType\bin\Debug\netcoreapp3.1\MimeType.runtimeconfig.dev.json
+C:\Source\CodersStrikeBack\MimeType\bin\Debug\netcoreapp3.1\MimeType.dll
+C:\Source\CodersStrikeBack\MimeType\bin\Debug\netcoreapp3.1\MimeType.pdb
+C:\Source\CodersStrikeBack\MimeType\obj\Debug\netcoreapp3.1\MimeType.csprojAssemblyReference.cache
+C:\Source\CodersStrikeBack\MimeType\obj\Debug\netcoreapp3.1\MimeType.AssemblyInfoInputs.cache
+C:\Source\CodersStrikeBack\MimeType\obj\Debug\netcoreapp3.1\MimeType.AssemblyInfo.cs
+C:\Source\CodersStrikeBack\MimeType\obj\Debug\netcoreapp3.1\MimeType.csproj.CoreCompileInputs.cache
+C:\Source\CodersStrikeBack\MimeType\obj\Debug\netcoreapp3.1\MimeType.dll
+C:\Source\CodersStrikeBack\MimeType\obj\Debug\netcoreapp3.1\MimeType.pdb
+C:\Source\CodersStrikeBack\MimeType\obj\Debug\netcoreapp3.1\MimeType.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Source\CodersStrikeBack\Stock Exchange Losses\bin\Debug\netcoreapp3.1\Stock Exchange Losses.exe
+C:\Source\CodersStrikeBack\Stock Exchange Losses\bin\Debug\netcoreapp3.1\Stock Exchange Losses.deps.json
+C:\Source\CodersStrikeBack\Stock Exchange Losses\bin\Debug\netcoreapp3.1\Stock Exchange Losses.runtimeconfig.json
+C:\Source\CodersStrikeBack\Stock Exchange Losses\bin\Debug\netcoreapp3.1\Stock Exchange Losses.runtimeconfig.dev.json
+C:\Source\CodersStrikeBack\Stock Exchange Losses\bin\Debug\netcoreapp3.1\Stock Exchange Losses.dll
+C:\Source\CodersStrikeBack\Stock Exchange Losses\bin\Debug\netcoreapp3.1\Stock Exchange Losses.pdb
+C:\Source\CodersStrikeBack\Stock Exchange Losses\obj\Debug\netcoreapp3.1\Stock Exchange Losses.csprojAssemblyReference.cache
+C:\Source\CodersStrikeBack\Stock Exchange Losses\obj\Debug\netcoreapp3.1\Stock Exchange Losses.AssemblyInfoInputs.cache
+C:\Source\CodersStrikeBack\Stock Exchange Losses\obj\Debug\netcoreapp3.1\Stock Exchange Losses.AssemblyInfo.cs
+C:\Source\CodersStrikeBack\Stock Exchange Losses\obj\Debug\netcoreapp3.1\Stock Exchange Losses.csproj.CoreCompileInputs.cache
+C:\Source\CodersStrikeBack\Stock Exchange Losses\obj\Debug\netcoreapp3.1\Stock Exchange Losses.dll
+C:\Source\CodersStrikeBack\Stock Exchange Losses\obj\Debug\netcoreapp3.1\Stock Exchange Losses.pdb
+C:\Source\CodersStrikeBack\Stock Exchange Losses\obj\Debug\netcoreapp3.1\Stock Exchange Losses.genruntimeconfig.cache
