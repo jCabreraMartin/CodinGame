@@ -1,0 +1,13 @@
+C:\Source\CodersStrikeBack\CodersStrikeBack\bin\Debug\netcoreapp3.1\CodersStrikeBack.exe
+C:\Source\CodersStrikeBack\CodersStrikeBack\bin\Debug\netcoreapp3.1\CodersStrikeBack.deps.json
+C:\Source\CodersStrikeBack\CodersStrikeBack\bin\Debug\netcoreapp3.1\CodersStrikeBack.runtimeconfig.json
+C:\Source\CodersStrikeBack\CodersStrikeBack\bin\Debug\netcoreapp3.1\CodersStrikeBack.runtimeconfig.dev.json
+C:\Source\CodersStrikeBack\CodersStrikeBack\bin\Debug\netcoreapp3.1\CodersStrikeBack.dll
+C:\Source\CodersStrikeBack\CodersStrikeBack\bin\Debug\netcoreapp3.1\CodersStrikeBack.pdb
+C:\Source\CodersStrikeBack\CodersStrikeBack\obj\Debug\netcoreapp3.1\CodersStrikeBack.csprojAssemblyReference.cache
+C:\Source\CodersStrikeBack\CodersStrikeBack\obj\Debug\netcoreapp3.1\CodersStrikeBack.AssemblyInfoInputs.cache
+C:\Source\CodersStrikeBack\CodersStrikeBack\obj\Debug\netcoreapp3.1\CodersStrikeBack.AssemblyInfo.cs
+C:\Source\CodersStrikeBack\CodersStrikeBack\obj\Debug\netcoreapp3.1\CodersStrikeBack.csproj.CoreCompileInputs.cache
+C:\Source\CodersStrikeBack\CodersStrikeBack\obj\Debug\netcoreapp3.1\CodersStrikeBack.dll
+C:\Source\CodersStrikeBack\CodersStrikeBack\obj\Debug\netcoreapp3.1\CodersStrikeBack.pdb
+C:\Source\CodersStrikeBack\CodersStrikeBack\obj\Debug\netcoreapp3.1\CodersStrikeBack.genruntimeconfig.cache
