@@ -1,0 +1,13 @@
+C:\Source\CodersStrikeBack\Defibrillators\obj\Debug\netcoreapp3.1\Defibrillators.csprojAssemblyReference.cache
+C:\Source\CodersStrikeBack\Defibrillators\obj\Debug\netcoreapp3.1\Defibrillators.AssemblyInfoInputs.cache
+C:\Source\CodersStrikeBack\Defibrillators\obj\Debug\netcoreapp3.1\Defibrillators.AssemblyInfo.cs
+C:\Source\CodersStrikeBack\Defibrillators\obj\Debug\netcoreapp3.1\Defibrillators.csproj.CoreCompileInputs.cache
+C:\Source\CodersStrikeBack\Defibrillators\bin\Debug\netcoreapp3.1\Defibrillators.exe
+C:\Source\CodersStrikeBack\Defibrillators\bin\Debug\netcoreapp3.1\Defibrillators.deps.json
+C:\Source\CodersStrikeBack\Defibrillators\bin\Debug\netcoreapp3.1\Defibrillators.runtimeconfig.json
+C:\Source\CodersStrikeBack\Defibrillators\bin\Debug\netcoreapp3.1\Defibrillators.runtimeconfig.dev.json
+C:\Source\CodersStrikeBack\Defibrillators\bin\Debug\netcoreapp3.1\Defibrillators.dll
+C:\Source\CodersStrikeBack\Defibrillators\bin\Debug\netcoreapp3.1\Defibrillators.pdb
+C:\Source\CodersStrikeBack\Defibrillators\obj\Debug\netcoreapp3.1\Defibrillators.dll
+C:\Source\CodersStrikeBack\Defibrillators\obj\Debug\netcoreapp3.1\Defibrillators.pdb
+C:\Source\CodersStrikeBack\Defibrillators\obj\Debug\netcoreapp3.1\Defibrillators.genruntimeconfig.cache
