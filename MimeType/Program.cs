@@ -22,6 +22,7 @@ namespace MimeType
         }
 
         public static List<nodo> table = new List<nodo>();
+        public static Hashtable htable = new Hashtable();
 
         static void Main(string[] args)
         {
@@ -31,8 +32,9 @@ namespace MimeType
             int Q = int.Parse(Console.ReadLine()); // Number Q of file names to be analyzed.
             for (int i = 0; i < N; i++)
             {
-                string[] inputs = Console.ReadLine().Split(',');
-                table.Add(new nodo(inputs[0].Trim(), inputs[1].Trim()));
+                string[] inputs = Console.ReadLine().Split(' ');
+                //table.Add(new nodo(inputs[0].Trim(), inputs[1].Trim())); 
+                htable.Add(inputs[0].Trim(), inputs[1].Trim());
             }
 
             for (int i = 0; i < Q; i++)
@@ -42,7 +44,8 @@ namespace MimeType
                 if (FNAME.Contains('.'))
                 {
                     string[] FNAME_EXT = FNAME.Split('.');
-                    string res = searchInTableOptimized(FNAME_EXT[(FNAME_EXT.Length) - 1]);
+                    //string res = searchInTableOptimized(FNAME_EXT[(FNAME_EXT.Length) - 1]);
+                    string res = (string)htable[FNAME_EXT[(FNAME_EXT.Length) - 1]];
                     Console.WriteLine(res);
                 }
                 else
