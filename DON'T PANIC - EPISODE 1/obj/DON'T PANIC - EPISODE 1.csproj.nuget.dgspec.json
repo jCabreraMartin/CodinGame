@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Source\\CodersStrikeBack\\DON'T PANIC - EPISODE 1\\DON'T PANIC - EPISODE 1.csproj": {}
+    "C:\\Users\\jose.cabrera.martin\\source\\repos\\DON'T PANIC - EPISODE 1\\DON'T PANIC - EPISODE 1.csproj": {}
   },
   "projects": {
-    "C:\\Source\\CodersStrikeBack\\DON'T PANIC - EPISODE 1\\DON'T PANIC - EPISODE 1.csproj": {
+    "C:\\Users\\jose.cabrera.martin\\source\\repos\\DON'T PANIC - EPISODE 1\\DON'T PANIC - EPISODE 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Source\\CodersStrikeBack\\DON'T PANIC - EPISODE 1\\DON'T PANIC - EPISODE 1.csproj",
+        "projectUniqueName": "C:\\Users\\jose.cabrera.martin\\source\\repos\\DON'T PANIC - EPISODE 1\\DON'T PANIC - EPISODE 1.csproj",
         "projectName": "DON'T PANIC - EPISODE 1",
-        "projectPath": "C:\\Source\\CodersStrikeBack\\DON'T PANIC - EPISODE 1\\DON'T PANIC - EPISODE 1.csproj",
-        "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-        "outputPath": "C:\\Source\\CodersStrikeBack\\DON'T PANIC - EPISODE 1\\obj\\",
+        "projectPath": "C:\\Users\\jose.cabrera.martin\\source\\repos\\DON'T PANIC - EPISODE 1\\DON'T PANIC - EPISODE 1.csproj",
+        "packagesPath": "C:\\Users\\jose.cabrera.martin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jose.cabrera.martin\\source\\repos\\DON'T PANIC - EPISODE 1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jose.cabrera.martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +25,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "http://webnugetfeed.dkvseguros.es/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dkvnet.pkgs.visualstudio.com/_packaging/dkvnugetfeed/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

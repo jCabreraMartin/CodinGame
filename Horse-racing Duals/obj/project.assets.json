@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\josem\\.nuget\\packages\\": {}
+    "C:\\Users\\jose.cabrera.martin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\CodersStrikeBack\\Horse-racing Duals\\Horse-racing Duals.csproj",
+      "projectUniqueName": "C:\\Users\\jose.cabrera.martin\\source\\repos\\Horse-racing Duals\\Horse-racing Duals.csproj",
       "projectName": "Horse-racing Duals",
-      "projectPath": "C:\\Source\\CodersStrikeBack\\Horse-racing Duals\\Horse-racing Duals.csproj",
-      "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\CodersStrikeBack\\Horse-racing Duals\\obj\\",
+      "projectPath": "C:\\Users\\jose.cabrera.martin\\source\\repos\\Horse-racing Duals\\Horse-racing Duals.csproj",
+      "packagesPath": "C:\\Users\\jose.cabrera.martin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jose.cabrera.martin\\source\\repos\\Horse-racing Duals\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jose.cabrera.martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +32,9 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "http://webnugetfeed.dkvseguros.es/nuget": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dkvnet.pkgs.visualstudio.com/_packaging/dkvnugetfeed/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
