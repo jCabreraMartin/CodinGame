@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DON'T PANIC - EPISODE 1", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stock Exchange Losses", "Stock Exchange Losses\Stock Exchange Losses.csproj", "{9CBCE150-A48D-4672-8DF2-48F2000D2870}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "War", "War\War.csproj", "{3C5E0565-0233-4F0E-9631-E3532E0F71E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "War", "War\War.csproj", "{3C5E0565-0233-4F0E-9631-E3532E0F71E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicGates", "LogicGates\LogicGates.csproj", "{D7C1BEA3-A253-48F8-83AC-8D79A1ACCD19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{3C5E0565-0233-4F0E-9631-E3532E0F71E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C5E0565-0233-4F0E-9631-E3532E0F71E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C5E0565-0233-4F0E-9631-E3532E0F71E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C1BEA3-A253-48F8-83AC-8D79A1ACCD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C1BEA3-A253-48F8-83AC-8D79A1ACCD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C1BEA3-A253-48F8-83AC-8D79A1ACCD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C1BEA3-A253-48F8-83AC-8D79A1ACCD19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
