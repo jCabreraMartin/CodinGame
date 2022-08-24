@@ -10,7 +10,7 @@ namespace CodersStrikeBack
             bool boost = true;
             string thrust = " 100";
 
-            // game loop
+            //Game loop
             while (true)
             {
                 inputs = Console.ReadLine().Split(' ');
