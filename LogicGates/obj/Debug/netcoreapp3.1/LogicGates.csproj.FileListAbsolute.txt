@@ -1,0 +1,13 @@
+C:\Users\jose.cabrera.martin\source\repos\LogicGates\obj\Debug\netcoreapp3.1\LogicGates.csprojAssemblyReference.cache
+C:\Users\jose.cabrera.martin\source\repos\LogicGates\obj\Debug\netcoreapp3.1\LogicGates.AssemblyInfoInputs.cache
+C:\Users\jose.cabrera.martin\source\repos\LogicGates\obj\Debug\netcoreapp3.1\LogicGates.AssemblyInfo.cs
+C:\Users\jose.cabrera.martin\source\repos\LogicGates\obj\Debug\netcoreapp3.1\LogicGates.csproj.CoreCompileInputs.cache
+C:\Users\jose.cabrera.martin\source\repos\LogicGates\bin\Debug\netcoreapp3.1\LogicGates.exe
+C:\Users\jose.cabrera.martin\source\repos\LogicGates\bin\Debug\netcoreapp3.1\LogicGates.deps.json
+C:\Users\jose.cabrera.martin\source\repos\LogicGates\bin\Debug\netcoreapp3.1\LogicGates.runtimeconfig.json
+C:\Users\jose.cabrera.martin\source\repos\LogicGates\bin\Debug\netcoreapp3.1\LogicGates.runtimeconfig.dev.json
+C:\Users\jose.cabrera.martin\source\repos\LogicGates\bin\Debug\netcoreapp3.1\LogicGates.dll
+C:\Users\jose.cabrera.martin\source\repos\LogicGates\bin\Debug\netcoreapp3.1\LogicGates.pdb
+C:\Users\jose.cabrera.martin\source\repos\LogicGates\obj\Debug\netcoreapp3.1\LogicGates.dll
+C:\Users\jose.cabrera.martin\source\repos\LogicGates\obj\Debug\netcoreapp3.1\LogicGates.pdb
+C:\Users\jose.cabrera.martin\source\repos\LogicGates\obj\Debug\netcoreapp3.1\LogicGates.genruntimeconfig.cache
